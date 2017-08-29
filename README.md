@@ -53,7 +53,6 @@ Then get out of screen to free up the port
 
 Install the app in the lib directory
 
-    sudo ampy -p /dev/tty.SLAB_USBtoUART run whereislibby/whereislibby.py
     sudo ampy -p /dev/tty.SLAB_USBtoUART put whereislibby lib/whereislibby
 
 # Links

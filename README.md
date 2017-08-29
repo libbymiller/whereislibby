@@ -62,3 +62,4 @@ Install the app in the lib directory
 * [badge firmware instructions](https://github.com/SHA2017-badge/Firmware)
 * [badge docs](https://wiki.sha2017.org/w/Projects:Badge/Documentation)
 * [badge safe mode](https://wiki.sha2017.org/w/Projects:Badge/Documentation#Safe_mode)
+* [micropython reference](https://micropython.org/resources/docs/en/latest/wipy/wipy/tutorial/repl.html)

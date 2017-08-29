@@ -2,6 +2,8 @@
 
 A very simple web based desk label using [SHA2017's badge](https://wiki.sha2017.org/w/Projects:Badge).
 
+<img src="https://c1.staticflickr.com/5/4415/36898607775_36c82ab6f1.jpg" />
+
 It's based on [weather](https://badge.sha2017.org/files/549).
 
 I can't put it in the [hatchery](https://badge.sha2017.org) - which would make installation easier - 

@@ -60,14 +60,14 @@ Install the app in the lib directory
 
 you need to do 
 
-   export PATH=$PATH:/Users/libbym/personal/sha2017_badge/Firmware/xtensa-esp32-elf/bin/
+    export PATH=$PATH:/Users/libbym/personal/sha2017_badge/Firmware/xtensa-esp32-elf/bin/
 
 before following the [MAC OS X instructions](https://github.com/SHA2017-badge/Firmware), i.e.
 
-   make defconfig
-   make -j5
-   make -j5 -C micropython/mpy-cross
-   make -j5 -C micropython/esp32/
+    make defconfig
+    make -j5
+    make -j5 -C micropython/mpy-cross
+    make -j5 -C micropython/esp32/
   
 though I couldn't actually flash it (no /dev/bus/usb)
 
